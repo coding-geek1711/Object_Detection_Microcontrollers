@@ -1,6 +1,12 @@
 # Object_Detection_Microcontrollers
 This is a basic MicroController Detection built using Tensorflow Object_detection models.
-
+It can detect 4 objects respectively.
+```
+Arduino Nano
+NodeMCU ESP8266
+Lora
+Raspberry Pi 3
+```
 # REFERENCES
 Video reference was taken by : 
 
